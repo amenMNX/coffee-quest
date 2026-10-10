@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791575591266,
+      "tag": "0000_cafes_and_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791590359115,
+      "tag": "0001_allow_users_add_own_cafes",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791590373917,
+      "tag": "0002_allow_users_upload_cafe_photos",
+      "breakpoints": true
+    }
+  ]
+}
